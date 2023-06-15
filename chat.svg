@@ -42,6 +42,7 @@
 
     .msg-3 {
       animation: wait 6.7s, msg-3 0.2s 6.7s;
+      morgin:0;
     }
 
     .typing-4 {
