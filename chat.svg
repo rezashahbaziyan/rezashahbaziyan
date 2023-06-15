@@ -295,8 +295,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Web developer wiht react.js</text>
-    <text x="15" y="50">building web3 websites</text>
+    <text x="15" y="27">I live in Iran</text>
+    <text x="15" y="50">،Tabriz</text>
   </g>
 
   <!-- typing 3 -->
@@ -320,8 +320,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">smart contract developer</text>    
-    <text x="15" y="50">writing blogs and meaningful projects</text>
+    <text x="15" y="27">smart contract Developer</text>    
+    <text x="15" y="50">Software Student at IAUT</text>
   </g>
 
 
@@ -344,10 +344,10 @@
   </g>
 
   <!-- Thanks -->
-<!--   <g transform="translate(10, 240)" class="msg-5">
+  <g transform="translate(10, 240)" class="msg-5">
     <rect width="200" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">HuggingFace Fellow</text>    
-  </g>   -->
+    <text x="15" y="27">Front-End developer with React.js</text>    
+  </g>  
   
   <!-- typing 4 -->
   <g transform="translate(10, 192)" class="typing-4">
@@ -370,7 +370,7 @@
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="400" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">community lead for official TensorFlow Iran</text>
+    <text x="15" y="27">blockchain Smart contract developer with Solidity</text>
   </g>
 
   <!-- typing 6 -->
@@ -394,7 +394,7 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="365" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">writing and translation IT books in Korean</text>
+    <text x="15" y="27">Thank you for following me</text>
   </g>
   
 
@@ -418,6 +418,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
     <rect width="445" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> please reach out via <a xlink:href="https://twitter.com/deep_algo">https://twitter.com/algo_diver</a> </text>
+    <text x="15" y="27"> please reach out via <a xlink:href="https://www.instagram.com/ujin.js">https://www.instagram.com/ujin.js</a> </text>
   </g>
 </svg>
