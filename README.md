@@ -1,4 +1,4 @@
-[![](https://github.com/deep-diver/deep-diver/blob/master/chat.svg)](https://twitter.com/algo_diver)
+[![](https://github.com/rezashahbaziyan/Reza-Shahbaziyan/blob/main/chat.svg)](https://www.instagram.com/ujin.js)
 
 ![](https://activity-graph.herokuapp.com/graph?username=deep-diver&theme=react-dark&hide_border=true&area=true)
 
