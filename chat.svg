@@ -294,8 +294,8 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="420" height="33.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="40">I live in Iran , Tabriz</text>
+    <rect width="320" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I live in Iran , Tabriz</text>
 <!--     <text x="15" y="50">Tabriz</text> -->
   </g>
 
@@ -319,9 +319,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="380" height="42" rx="18.0355" class="bubble" />
 <!--     <text x="15" y="27">smart contract Developer</text>     -->
-    <text x="15" y="50">Software Student at IAUT</text>
+    <text x="15" y="27">Software Student at IAUT</text>
   </g>
 
 
@@ -345,7 +345,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="200" height="42.1302" rx="18.0355" class="bubble" />
+    <rect width="400" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Front-End developer with React.js</text>    
   </g>  
   
@@ -369,7 +369,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="400" height="42" rx="18.0355" class="bubble" />
+    <rect width="450" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">blockchain Smart contract developer with Solidity</text>
   </g>
 
@@ -393,7 +393,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="365" height="42" rx="18.0355" class="bubble" />
+    <rect width="370" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Thank you for following me</text>
   </g>
   
@@ -417,7 +417,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
-    <rect width="445" height="42" rx="18.0355" class="bubble" />
+    <rect width="520" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> please reach out via <a xlink:href="https://www.instagram.com/ujin.js">https://www.instagram.com/ujin.js</a> </text>
   </g>
 </svg>
